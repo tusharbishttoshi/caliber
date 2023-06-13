@@ -1,0 +1,216 @@
+@font-face {
+    font-family: "Flaticon";
+    src: url("https://themexriver.com/houseland-demo/main/wp-content/themes/houseland/assets/fonts/flaticon/flaticon2.eot");
+    src: url("https://themexriver.com/houseland-demo/main/wp-content/themes/houseland/assets/fonts/flaticon/flaticon2.eot?#iefix") format("embedded-opentype"),
+         url("https://themexriver.com/houseland-demo/main/wp-content/themes/houseland/assets/fonts/flaticon/flaticon2.woff") format("woff"),
+         url("https://themexriver.com/houseland-demo/main/wp-content/themes/houseland/assets/fonts/flaticon/flaticon2.ttf") format("truetype"),
+         url("https://themexriver.com/houseland-demo/main/wp-content/themes/houseland/assets/fonts/flaticon/flaticon2.svg#Flaticon") format("svg");
+    font-weight: normal;
+    font-style: normal;
+  }
+  
+  @media screen and (-webkit-min-device-pixel-ratio:0) {
+    @font-face {
+      font-family: "Flaticon";
+      src: url("https://themexriver.com/houseland-demo/main/wp-content/themes/houseland/assets/fonts/flaticon/flaticon.svg#Flaticon") format("svg");
+    }
+  }
+  
+  [class^="flaticon2-"]:before, [class*=" flaticon2-"]:before,
+  [class^="flaticon2-"]:after, [class*=" flaticon2-"]:after {   
+       font-family: Flaticon;
+      font-style: normal;
+  }
+  
+  .flaticon2-send:before {
+      content: "\f101";
+  }
+  .flaticon2-clipboard:before {
+      content: "\f102";
+  }
+  .flaticon2-hotel:before {
+      content: "\f103";
+  }
+  .flaticon2-bed:before {
+      content: "\f104";
+  }
+  .flaticon2-certificate:before {
+      content: "\f105";
+  }
+  .flaticon2-call:before {
+      content: "\f106";
+  }
+  .flaticon2-wallet:before {
+      content: "\f107";
+  }
+  .flaticon2-email:before {
+      content: "\f108";
+  }
+  .flaticon2-magnifying-glass-search:before {
+      content: "\f109";
+  }
+  .flaticon2-location:before {
+      content: "\f10a";
+  }
+  .flaticon2-selling:before {
+      content: "\f10b";
+  }
+  .flaticon2-house:before {
+      content: "\f10c";
+  }
+  .flaticon2-buy:before {
+      content: "\f10d";
+  }
+  .flaticon2-rent:before {
+      content: "\f10e";
+  }
+  .flaticon2-bath:before {
+      content: "\f10f";
+  }
+  .flaticon2-car:before {
+      content: "\f110";
+  }
+  .flaticon2-square-ruler:before {
+      content: "\f111";
+  }
+  .flaticon2-appartment:before {
+      content: "\f112";
+  }
+  .flaticon2-residential:before {
+      content: "\f113";
+  }
+  .flaticon2-factory:before {
+      content: "\f114";
+  }
+  .flaticon2-office-building:before {
+      content: "\f115";
+  }
+  .flaticon2-smart-house:before {
+      content: "\f116";
+  }
+  .flaticon2-24-hours-support:before {
+      content: "\f117";
+  }
+  .flaticon2-compare:before {
+      content: "\f118";
+  }
+  .flaticon2-love:before {
+      content: "\f119";
+  }
+  .flaticon2-mortgage-loan:before {
+      content: "\f11a";
+  }
+  .flaticon2-support:before {
+      content: "\f11b";
+  }
+  .flaticon2-share:before {
+      content: "\f11c";
+  }
+  .flaticon2-printer:before {
+      content: "\f11d";
+  }
+  .flaticon2-email-1:before {
+      content: "\f11e";
+  }
+  .flaticon2-email-2:before {
+      content: "\f11f";
+  }
+  .flaticon2-cloud-upload:before {
+      content: "\f120";
+  }
+  .flaticon2-minus:before {
+      content: "\f121";
+  }
+  .flaticon2-exit-full-screen:before {
+      content: "\f122";
+  }
+  .flaticon2-user:before {
+      content: "\f123";
+  }
+  .flaticon2-downward-arrow:before {
+      content: "\f124";
+  }
+  .flaticon2-setting-lines:before {
+      content: "\f125";
+  }
+  .flaticon2-magnifying-glass:before {
+      content: "\f126";
+  }
+  .flaticon2-play-button:before {
+      content: "\f127";
+  }
+  .flaticon2-chat:before {
+      content: "\f128";
+  }
+  .flaticon2-configuration:before {
+      content: "\f129";
+  }
+  .flaticon2-secure:before {
+      content: "\f12a";
+  }
+  .flaticon2-crown:before {
+      content: "\f12b";
+  }
+  .flaticon2-guaranteed:before {
+      content: "\f12c";
+  }
+  .flaticon2-old-typical-phone:before {
+      content: "\f12d";
+  }
+  .flaticon2-heart:before {
+      content: "\f12e";
+  }
+  .flaticon2-pin:before {
+      content: "\f12f";
+  }
+  .flaticon2-bed-1:before {
+      content: "\f130";
+  }
+  .flaticon2-bath-1:before {
+      content: "\f131";
+  }
+  .flaticon2-arrow:before {
+      content: "\f132";
+  }
+  .flaticon2-menu:before {
+      content: "\f133";
+  }
+  .flaticon2-window-of-four-rounded-squares:before {
+      content: "\f134";
+  }
+  .flaticon2-right-arrow:before {
+      content: "\f135";
+  }
+  .flaticon2-quote:before {
+      content: "\f136";
+  }
+  .flaticon2-plus:before {
+      content: "\f137";
+  }
+  .flaticon2-calendar:before {
+      content: "\f138";
+  }
+  .flaticon2-shopping-cart:before {
+      content: "\f139";
+  }
+  .flaticon2-user-1:before {
+      content: "\f13a";
+  }
+  .flaticon2-loupe:before {
+      content: "\f13b";
+  }
+  .flaticon2-condo:before {
+      content: "\f13c";
+  }
+  .flaticon2-briefcase:before {
+      content: "\f13d";
+  }
+  .flaticon2-courthouse:before {
+      content: "\f13e";
+  }
+  .flaticon2-operation:before {
+      content: "\f13f";
+  }
+  .flaticon2-reliability:before {
+      content: "\f140";
+  }  
