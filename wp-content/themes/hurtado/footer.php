@@ -206,39 +206,13 @@ for (let j = 0; j < urlFields.length; j++) {
 <style id='rs-plugin-settings-inline-css' type='text/css'>
 #rs-demo-id {}
 </style>
-<script type='text/javascript' src='../wp-content/plugins/contact-form-7/includes/swv/js/indexcfaa.js?ver=5.7.6' id='swv-js'></script>
-<script type='text/javascript' id='contact-form-7-js-extra'>
-/* <![CDATA[ */
-var wpcf7 = {"api":{"root":"https:\/\/themexriver.com\/houseland-demo\/main\/wp-json\/","namespace":"contact-form-7\/v1"}};
-/* ]]> */
-</script>
-<script type='text/javascript' src='../wp-content/plugins/contact-form-7/includes/js/indexcfaa.js?ver=5.7.6' id='contact-form-7-js'></script>
+
 <script type='text/javascript' src='../wp-includes/js/jquery/ui/core.min3f14.js?ver=1.13.2' id='jquery-ui-core-js'></script>
 <script type='text/javascript' src='../wp-includes/js/jquery/ui/mouse.min3f14.js?ver=1.13.2' id='jquery-ui-mouse-js'></script>
 <script type='text/javascript' src='../wp-includes/js/jquery/ui/slider.min3f14.js?ver=1.13.2' id='jquery-ui-slider-js'></script>
 <script type='text/javascript' src='../wp-includes/js/jquery/jquery.ui.touch-punchc682.js?ver=0.2.2' id='jquery-touch-punch-js'></script>
 <script type='text/javascript' src='../wp-content/plugins/revslider/public/assets/js/rbtools.min0c8a.js?ver=6.5.11' defer async id='tp-tools-js'></script>
 <script type='text/javascript' src='../wp-content/plugins/revslider/public/assets/js/rs6.min0c8a.js?ver=6.5.11' defer async id='revmin-js'></script>
-<script type='text/javascript' src='../wp-content/plugins/woocommerce/assets/js/jquery-blockui/jquery.blockUI.min68cf.js?ver=2.7.0-wc.7.7.0' id='jquery-blockui-js'></script>
-<script type='text/javascript' id='wc-add-to-cart-js-extra'>
-/* <![CDATA[ */
-var wc_add_to_cart_params = {"ajax_url":"\/houseland-demo\/main\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/houseland-demo\/main\/?wc-ajax=%%endpoint%%","i18n_view_cart":"View cart","cart_url":"https:\/\/themexriver.com\/houseland-demo\/main\/cart\/","is_cart":"","cart_redirect_after_add":"no"};
-/* ]]> */
-</script>
-<script type='text/javascript' src='../wp-content/plugins/woocommerce/assets/js/frontend/add-to-cart.min4c53.js?ver=7.7.0' id='wc-add-to-cart-js'></script>
-<script type='text/javascript' src='../wp-content/plugins/woocommerce/assets/js/js-cookie/js.cookie.min56d7.js?ver=2.1.4-wc.7.7.0' id='js-cookie-js'></script>
-<script type='text/javascript' id='woocommerce-js-extra'>
-/* <![CDATA[ */
-var woocommerce_params = {"ajax_url":"\/houseland-demo\/main\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/houseland-demo\/main\/?wc-ajax=%%endpoint%%"};
-/* ]]> */
-</script>
-<script type='text/javascript' src='../wp-content/plugins/woocommerce/assets/js/frontend/woocommerce.min4c53.js?ver=7.7.0' id='woocommerce-js'></script>
-<script type='text/javascript' id='wc-cart-fragments-js-extra'>
-/* <![CDATA[ */
-var wc_cart_fragments_params = {"ajax_url":"\/houseland-demo\/main\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/houseland-demo\/main\/?wc-ajax=%%endpoint%%","cart_hash_key":"wc_cart_hash_f5591d87fc6996985b3f6534290fcbeb","fragment_name":"wc_fragments_f5591d87fc6996985b3f6534290fcbeb","request_timeout":"5000"};
-/* ]]> */
-</script>
-<script type='text/javascript' src='../wp-content/plugins/woocommerce/assets/js/frontend/cart-fragments.min4c53.js?ver=7.7.0' id='wc-cart-fragments-js'></script>
 <script type='text/javascript' src='../wp-content/themes/houseland/assets/js/vendor/bootstrap.min431f.js?ver=2.1.2' id='bootstrap-js'></script>
 <script type='text/javascript' src='../wp-content/themes/houseland/assets/js/jquery.mCustomScrollbar.concat.min431f.js?ver=2.1.2' id='jquery-mcustomscrollbar-concat-js'></script>
 <script type='text/javascript' src='../wp-content/themes/houseland/assets/js/jquery.fancybox431f.js?ver=2.1.2' id='jquery-fancybox-js'></script>
@@ -260,14 +234,9 @@ var wc_cart_fragments_params = {"ajax_url":"\/houseland-demo\/main\/wp-admin\/ad
 <script type='text/javascript' src='../wp-content/themes/houseland/assets/js/script-new3781.js?ver=6.2.2' id='houseland-script-js'></script>
 <script type='text/javascript' src='../wp-includes/js/comment-reply.min3781.js?ver=6.2.2' id='comment-reply-js'></script>
 <script type='text/javascript' defer src='../wp-content/plugins/mailchimp-for-wp/assets/js/formscbf4.js?ver=4.9.4' id='mc4wp-forms-api-js'></script>
-<script type='text/javascript' src='../wp-content/plugins/elementor/assets/js/webpack.runtime.min0fa4.js?ver=3.13.3' id='elementor-webpack-runtime-js'></script>
-<script type='text/javascript' src='../wp-content/plugins/elementor/assets/js/frontend-modules.min0fa4.js?ver=3.13.3' id='elementor-frontend-modules-js'></script>
-<script type='text/javascript' src='../wp-content/plugins/elementor/assets/lib/waypoints/waypoints.min05da.js?ver=4.0.2' id='elementor-waypoints-js'></script>
 <script type='text/javascript' id='elementor-frontend-js-before'>
 var elementorFrontendConfig = {"environmentMode":{"edit":false,"wpPreview":false,"isScriptDebug":false},"i18n":{"shareOnFacebook":"Share on Facebook","shareOnTwitter":"Share on Twitter","pinIt":"Pin it","download":"Download","downloadImage":"Download image","fullscreen":"Fullscreen","zoom":"Zoom","share":"Share","playVideo":"Play Video","previous":"Previous","next":"Next","close":"Close"},"is_rtl":false,"breakpoints":{"xs":0,"sm":480,"md":768,"lg":1025,"xl":1440,"xxl":1600},"responsive":{"breakpoints":{"mobile":{"label":"Mobile Portrait","value":767,"default_value":767,"direction":"max","is_enabled":true},"mobile_extra":{"label":"Mobile Landscape","value":880,"default_value":880,"direction":"max","is_enabled":false},"tablet":{"label":"Tablet Portrait","value":1024,"default_value":1024,"direction":"max","is_enabled":true},"tablet_extra":{"label":"Tablet Landscape","value":1200,"default_value":1200,"direction":"max","is_enabled":false},"laptop":{"label":"Laptop","value":1366,"default_value":1366,"direction":"max","is_enabled":false},"widescreen":{"label":"Widescreen","value":2400,"default_value":2400,"direction":"min","is_enabled":false}}},"version":"3.13.3","is_static":false,"experimentalFeatures":{"e_dom_optimization":true,"e_optimized_assets_loading":true,"e_optimized_css_loading":true,"a11y_improvements":true,"additional_custom_breakpoints":true,"landing-pages":true},"urls":{"assets":"https:\/\/themexriver.com\/houseland-demo\/main\/wp-content\/plugins\/elementor\/assets\/"},"swiperClass":"swiper-container","settings":{"page":[],"editorPreferences":[]},"kit":{"active_breakpoints":["viewport_mobile","viewport_tablet"],"global_image_lightbox":"yes","lightbox_enable_counter":"yes","lightbox_enable_fullscreen":"yes","lightbox_enable_zoom":"yes","lightbox_enable_share":"yes","lightbox_title_src":"title","lightbox_description_src":"description"},"post":{"id":972,"title":"Home%2002","excerpt":"","featuredImage":false}};
 </script>
-<script type='text/javascript' src='../wp-content/plugins/elementor/assets/js/frontend.min0fa4.js?ver=3.13.3' id='elementor-frontend-js'></script>
-
 
 	<svg version="1.1" xmlns="http://www.w3.org/2000/svg" class="hide" style="display:none">
 		<defs>
