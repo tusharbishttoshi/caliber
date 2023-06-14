@@ -5,37 +5,15 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">        
 	<meta name="viewport" content="width=device-width, initial-scale=1">    
     <title><?php the_title();?></title>
-<link rel='stylesheet' id='odometer-theme-css' href='../wp-content/themes/houseland/assets/css/odometer-theme3781.css?ver=6.2.2' type='text/css' media='all' />
-<link rel='stylesheet' id='jquery-ui-css' href='../wp-content/themes/houseland/assets/css/jquery-ui3781.css?ver=6.2.2' type='text/css' media='all' />
-<link rel='stylesheet' id='image-uploader-css' href='../wp-content/themes/houseland/assets/css/image-uploader.min3781.css?ver=6.2.2' type='text/css' media='all' />
-<link rel='stylesheet' id='magnific-popup-css' href='../wp-content/themes/houseland/assets/css/magnific-popup3781.css?ver=6.2.2' type='text/css' media='all' />
-<link rel='stylesheet' id='custom-animate-css' href='../wp-content/themes/houseland/assets/css/custom-animate3781.css?ver=6.2.2' type='text/css' media='all' />
-<link rel='stylesheet' id='jquery-mcustomscrollbar-css' href='../wp-content/themes/houseland/assets/css/jquery.mCustomScrollbar.min3781.css?ver=6.2.2' type='text/css' media='all' />
-<link rel='stylesheet' id='owl-css' href='../wp-content/themes/houseland/assets/css/owl3781.css?ver=6.2.2' type='text/css' media='all' />
-<link rel='stylesheet' id='houseland-main-css' href='../wp-content/themes/houseland-child/style3781.html?ver=6.2.2' type='text/css' media='all' />
+
 <link rel='stylesheet' id='houseland-main-style-css' href='../wp-content/themes/houseland/assets/css/style3781.css?ver=6.2.2' type='text/css' media='all' />
 <link rel='stylesheet' id='houseland-style-new-css' href='../wp-content/themes/houseland/assets/css/style-new3781.css?ver=6.2.2' type='text/css' media='all' />
 <link rel='stylesheet' id='houseland-custom-css' href='../wp-content/themes/houseland/assets/css/custom3781.css?ver=6.2.2' type='text/css' media='all' />
 <link rel='stylesheet' id='houseland-responsive-css' href='../wp-content/themes/houseland/assets/css/responsive3781.css?ver=6.2.2' type='text/css' media='all' />
 <link rel='stylesheet' id='houseland-responsive-2-css' href='../wp-content/themes/houseland/assets/css/responsive-23781.css?ver=6.2.2' type='text/css' media='all' />
-<link rel='stylesheet' id='houseland-main-color-scheme-css' href='https://themexriver.com/houseland-demo/main/wp-content/themes/houseland/assets/css/color.php?main_color=0156f2&amp;second_color=00c21d&amp;ver=6.2.2' type='text/css' media='all' />
 <link rel='stylesheet' id='houseland-woocommerce-css' href='../wp-content/themes/houseland/woocommerce/woocommerce3781.css?ver=6.2.2' type='text/css' media='all' />
 <link rel='stylesheet' id='elementor-post-5-css' href='../wp-content/uploads/sites/6/elementor/css/post-5ce9b.css?ver=1684933208' type='text/css' media='all' />
 <link rel='stylesheet' id='elementor-global-css' href='../wp-content/uploads/sites/6/elementor/css/globalce9b.css?ver=1684933208' type='text/css' media='all' />
-
-<script type='text/javascript' id='jquery-core-js-extra'>
-/* <![CDATA[ */
-var houseland_data = {"ajaxurl":"https:\/\/themexriver.com\/houseland-demo\/main\/wp-admin\/admin-ajax.php","nonce":"7afe876b78"};
-/* ]]> */
-</script>
-<script type='text/javascript' src='../wp-includes/js/jquery/jquery.min5aed.js?ver=3.6.4' id='jquery-core-js'></script>
-<script type='text/javascript' src='../wp-includes/js/jquery/jquery-migrate.min6b00.js?ver=3.4.0' id='jquery-migrate-js'></script>
-
-<script type='text/javascript' id='epl-front-scripts-js-extra'>
-/* <![CDATA[ */
-var epl_frontend_vars = {"site_url":"https:\/\/themexriver.com\/houseland-demo\/main\/","epl_default_view_type":"list","ajaxurl":"https:\/\/themexriver.com\/houseland-demo\/main\/wp-admin\/admin-ajax.php","image_base":"https:\/\/themexriver.com\/houseland-demo\/main\/wp-content\/plugins\/easy-property-listings\/lib\/assets\/images\/","field_sliders":{"epl_field_slider_property_price_global":{"els":["property_price_global_from","property_price_global_to"],"label":"Price Search","prefix":"&#36;","suffix":"","separator":" - "}},"range_html":"\n        <span class=\"epl-lf-label-txt\"> {range_start} {range_sep} {range_end} <\/span> "};
-/* ]]> */
-</script>
 
           <?php wp_head(); ?>
 </head>
@@ -47,7 +25,7 @@ var epl_frontend_vars = {"site_url":"https:\/\/themexriver.com\/houseland-demo\/
 
     
        <!-- Preloader Starts -->
-        <div class="preloader" id="preloader">
+        <!-- <div class="preloader" id="preloader">
             <div class="preloader-inner">
                 <div class="spinner">
                     <div class="bounce1"></div>
@@ -55,7 +33,7 @@ var epl_frontend_vars = {"site_url":"https:\/\/themexriver.com\/houseland-demo\/
                     <div class="bounce3"></div>
                 </div>
             </div>
-        </div>
+        </div> -->
         <!-- Preloader End -->
 		
 

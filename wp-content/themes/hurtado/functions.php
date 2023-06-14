@@ -12,6 +12,8 @@ function hunt_enqueue_styles()
 	wp_enqueue_style('revolution-css', get_template_directory_uri() . '/assets/css/revolution-slider.css');
 	wp_enqueue_style('slick', 'https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.8.1/slick.css');
 	wp_enqueue_style('nice-select', 'https://cdnjs.cloudflare.com/ajax/libs/jquery-nice-select/1.1.0/css/nice-select.css');
+	wp_enqueue_style('odometer', get_template_directory_uri() . '/assets/css/odometer.css');
+	wp_enqueue_style('owl-css', 'https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.carousel.css');
 }
 add_action('wp_enqueue_scripts', 'hunt_enqueue_styles');
 ?>
