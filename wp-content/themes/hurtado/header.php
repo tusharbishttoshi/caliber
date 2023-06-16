@@ -4,18 +4,7 @@
 	<meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">        
 	<meta name="viewport" content="width=device-width, initial-scale=1">    
-    <title><?php the_title();?></title>
-
-<link rel='stylesheet' id='houseland-main-style-css' href='../wp-content/themes/houseland/assets/css/style3781.css?ver=6.2.2' type='text/css' media='all' />
-<link rel='stylesheet' id='houseland-style-new-css' href='../wp-content/themes/houseland/assets/css/style-new3781.css?ver=6.2.2' type='text/css' media='all' />
-<link rel='stylesheet' id='houseland-custom-css' href='../wp-content/themes/houseland/assets/css/custom3781.css?ver=6.2.2' type='text/css' media='all' />
-<link rel='stylesheet' id='houseland-responsive-css' href='../wp-content/themes/houseland/assets/css/responsive3781.css?ver=6.2.2' type='text/css' media='all' />
-<link rel='stylesheet' id='houseland-responsive-2-css' href='../wp-content/themes/houseland/assets/css/responsive-23781.css?ver=6.2.2' type='text/css' media='all' />
-<link rel='stylesheet' id='houseland-woocommerce-css' href='../wp-content/themes/houseland/woocommerce/woocommerce3781.css?ver=6.2.2' type='text/css' media='all' />
-<link rel='stylesheet' id='elementor-post-5-css' href='../wp-content/uploads/sites/6/elementor/css/post-5ce9b.css?ver=1684933208' type='text/css' media='all' />
-<link rel='stylesheet' id='elementor-global-css' href='../wp-content/uploads/sites/6/elementor/css/globalce9b.css?ver=1684933208' type='text/css' media='all' />
-
-          <?php wp_head(); ?>
+    <?php wp_head(); ?>
 </head>
 
 
