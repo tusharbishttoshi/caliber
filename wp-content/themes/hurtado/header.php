@@ -14,7 +14,7 @@
 
     
        <!-- Preloader Starts -->
-        <!-- <div class="preloader" id="preloader">
+        <div class="preloader" id="preloader">
             <div class="preloader-inner">
                 <div class="spinner">
                     <div class="bounce1"></div>
@@ -22,7 +22,7 @@
                     <div class="bounce3"></div>
                 </div>
             </div>
-        </div> -->
+        </div>
         <!-- Preloader End -->
 		
 
@@ -35,7 +35,7 @@
                 <div class="row align-items-center">
                     <div class="col-lg-2 col-4">
                         <div class="logo-wrapper">
-                            <a href="https://themexriver.com/houseland-demo/main/" title=""><img src="../wp-content/uploads/sites/6/2021/11/logo-3.png" alt="logo" style="" /></a>                        </div>
+                            <a href="#" title=""><img src="http://localhost/caliber-trust/wp-content/uploads/2023/06/logo-3.png" alt="logo" style="" /></a>                        </div>
                     </div>
                     <div class="col-lg-10 col-8">
                         <div class="header-wrapper">
@@ -107,7 +107,7 @@
         <!-- Mobile Menu -->
         <div class="hl-mobile-menu">
             <a href="#" class="hl-mobile-menu-close"><i class="fas fa-times"></i></a>
-           <div class="mobile-menu-logo"><a href="https://themexriver.com/houseland-demo/main/" title=""><img src="../wp-content/uploads/sites/6/2021/11/mobile-logo.png" alt="logo" style="" /></a></div>
+           <div class="mobile-menu-logo"><a href="https://themexriver.com/houseland-demo/main/" title=""><img src="http://localhost/caliber-trust/wp-content/uploads/2023/06/mobile-logo.png" alt="logo" style="" /></a></div>
             <ul>
                  <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-ancestor current-menu-parent current_page_parent current_page_ancestor menu-item-has-children menu-item-1119 dropdown has-submenu current"><a title="Home" href="https://themexriver.com/houseland-demo/main/" data-toggle="dropdown1" class="hvr-underline-from-left1" aria-expanded="false" data-scroll data-options="easing: easeOutQuart">Home</a>
 <ul role="menu" class="submenu">

@@ -11,14 +11,14 @@
         <!-- Hero Slider -->
         <div class="hl3-hero-slider">
             <div class="hl2-hero-slider-two style-two">
-                                <div class="item-container" data-background="../wp-content/uploads/sites/6/2021/11/slide-1-1.jpg">
-                	<div class="pattern-layer"><img decoding="async" src="../wp-content/uploads/sites/6/2021/11/slide-shape.png" alt="Pattern Image"></div>
+                                <div class="item-container" data-background="http://www.calibertrust.com/test/wp-content/uploads/2023/06/slide-1.jpg">
+                	<div class="pattern-layer"><img decoding="async" src="http://www.calibertrust.com/test/wp-content/uploads/2023/06/slide-shape.png" alt="Pattern Image"></div>
                 </div>
-                                <div class="item-container" data-background="../wp-content/uploads/sites/6/2021/11/slide-2-min.jpg">
-                	<div class="pattern-layer"><img decoding="async" src="../wp-content/uploads/sites/6/2021/11/slide-shape.png" alt="Pattern Image"></div>
+                                <div class="item-container" data-background="http://www.calibertrust.com/test/wp-content/uploads/2023/06/slide-2.jpg">
+                	<div class="pattern-layer"><img decoding="async" src="http://www.calibertrust.com/test/wp-content/uploads/2023/06/slide-shape.png" alt="Pattern Image"></div>
                 </div>
-                                <div class="item-container" data-background="../wp-content/uploads/sites/6/2021/11/slide-2-min.jpg">
-                	<div class="pattern-layer"><img decoding="async" src="../wp-content/uploads/sites/6/2021/11/slide-shape.png" alt="Pattern Image"></div>
+                                <div class="item-container" data-background="http://www.calibertrust.com/test/wp-content/uploads/2023/06/slide-1.jpg">
+                	<div class="pattern-layer"><img decoding="async" src="http://www.calibertrust.com/test/wp-content/uploads/2023/06/slide-shape.png" alt="Pattern Image"></div>
                 </div>
                             </div>
 
@@ -251,15 +251,15 @@
                     <div class="clients-info">
                         <ul class="">
                                                         <li>
-                            	<img decoding="async" src="../wp-content/uploads/sites/6/2021/11/ct-3.png" alt="Awesome Image">
+                            	<img decoding="async" src="http://www.calibertrust.com/test/wp-content/uploads/2023/06/ct-3.png" alt="Awesome Image">
                                 <span class="clients_name">Adam deidre</span>
                             </li>
                                                         <li>
-                            	<img decoding="async" src="../wp-content/uploads/sites/6/2021/11/ct-2.png" alt="Awesome Image">
+                            	<img decoding="async" src="http://www.calibertrust.com/test/wp-content/uploads/2023/06/ct-2.png" alt="Awesome Image">
                                 <span class="clients_name">Michae deidre</span>
                             </li>
                                                         <li>
-                            	<img decoding="async" src="../wp-content/uploads/sites/6/2021/11/ct-1.png" alt="Awesome Image">
+                            	<img decoding="async" src="http://www.calibertrust.com/test/wp-content/uploads/2023/06/ct-1.png" alt="Awesome Image">
                                 <span class="clients_name">Jhoson deidre</span>
                             </li>
                                                                                     <li class="ct_item">
@@ -291,25 +291,25 @@
             <div class="container">
                 <div class="hl-brand-slider">
 				 	                    <div class="hl-brand-single">
-                        <img decoding="async" src="../../../wp/houseland/wp-content/uploads/2021/11/partner-01.png" alt="Awesome Image">
+                        <img decoding="async" src="http://www.calibertrust.com/test/wp-content/uploads/2023/06/partner-01.png" alt="Awesome Image">
                     </div>
                                         <div class="hl-brand-single">
-                        <img decoding="async" src="../../../wp/houseland/wp-content/uploads/2021/11/partner-02.png" alt="Awesome Image">
+                        <img decoding="async" src="http://www.calibertrust.com/test/wp-content/uploads/2023/06/partner-02.png" alt="Awesome Image">
                     </div>
                                         <div class="hl-brand-single">
-                        <img decoding="async" src="../../../wp/houseland/wp-content/uploads/2021/11/partner-03.png" alt="Awesome Image">
+                        <img decoding="async" src="http://www.calibertrust.com/test/wp-content/uploads/2023/06/partner-03.png" alt="Awesome Image">
                     </div>
                                         <div class="hl-brand-single">
-                        <img decoding="async" src="../../../wp/houseland/wp-content/uploads/2021/11/partner-04.png" alt="Awesome Image">
+                        <img decoding="async" src="http://www.calibertrust.com/test/wp-content/uploads/2023/06/partner-04.png" alt="Awesome Image">
                     </div>
                                         <div class="hl-brand-single">
-                        <img decoding="async" src="../../../wp/houseland/wp-content/uploads/2021/11/partner-01.png" alt="Awesome Image">
+                        <img decoding="async" src="http://www.calibertrust.com/test/wp-content/uploads/2023/06/partner-01.png" alt="Awesome Image">
                     </div>
                                         <div class="hl-brand-single">
-                        <img decoding="async" src="../../../wp/houseland/wp-content/uploads/2021/11/partner-02.png" alt="Awesome Image">
+                        <img decoding="async" src="http://www.calibertrust.com/test/wp-content/uploads/2023/06/partner-02.png" alt="Awesome Image">
                     </div>
                                         <div class="hl-brand-single">
-                        <img decoding="async" src="../../../wp/houseland/wp-content/uploads/2021/11/partner-03.png" alt="Awesome Image">
+                        <img decoding="async" src="http://www.calibertrust.com/test/wp-content/uploads/2023/06/partner-03.png" alt="Awesome Image">
                     </div>
                                     </div>
             </div>
@@ -334,12 +334,12 @@
                     <div class="col-lg-6">
                         <div class="ab-left">
 							                            <div class="thumb-wrapper">
-                                <img decoding="async" src="../wp-content/uploads/sites/6/2021/11/ab-1.png" alt="Awesome Image">
+                                <img decoding="async" src="http://www.calibertrust.com/test/wp-content/uploads/2023/06/ab-1.png" alt="Awesome Image">
                                  								<div class="video-btn wow fadeInUp">
                                     <a href="https://www.youtube.com/watch?v=L9szn1QQfas" class="video-popup"><span><i class="fas fa-play"></i></span></a>
                                 </div>
 								                            </div>
-							                            <span class="ab-arrow-shape"><img decoding="async" src="../wp-content/themes/houseland/assets/images/home3/arrow-vector.png" alt=""></span>
+							                            <span class="ab-arrow-shape"><img decoding="async" src="http://www.calibertrust.com/test/wp-content/uploads/2023/06/arrow-vector.png" alt=""></span>
                             <span class="ab-dot-shape"><img decoding="async" src="../wp-content/themes/houseland/assets/images/home3/dot-vector.png" alt=""></span>
                         </div>
                     </div>
@@ -458,7 +458,7 @@
                                                 <h5>$<span class="page-price">2500</span></h5>
                                             </div>
                                             <div class="readmore-btn">
-                                                <a href="https://themexriver.com/houseland-demo/main/property/sea-view-house/"><i class="flaticonv2-right-arrow"></i></a>
+                                                <a href="https://themexriver.com/houseland-demo/main/property/sea-view-house/"><i class="fa-solid fa-arrow-right-long"></i></a>
                                             </div>
                                         </div>
                                     </div>
@@ -495,7 +495,7 @@
                                                 <h5>$<span class="page-price">2500</span></h5>
                                             </div>
                                             <div class="readmore-btn">
-                                                <a href="https://themexriver.com/houseland-demo/main/property/10-rooms-furnished-villa/"><i class="flaticonv2-right-arrow"></i></a>
+                                                <a href="https://themexriver.com/houseland-demo/main/property/10-rooms-furnished-villa/"><i class="fa-solid fa-arrow-right-long"></i></a>
                                             </div>
                                         </div>
                                     </div>
@@ -532,7 +532,7 @@
                                                 <h5>$<span class="page-price">2500</span></h5>
                                             </div>
                                             <div class="readmore-btn">
-                                                <a href="https://themexriver.com/houseland-demo/main/property/beautiful-apartment-house/"><i class="flaticonv2-right-arrow"></i></a>
+                                                <a href="https://themexriver.com/houseland-demo/main/property/beautiful-apartment-house/"><i class="fa-solid fa-arrow-right-long"></i></a>
                                             </div>
                                         </div>
                                     </div>
@@ -569,7 +569,7 @@
                                                 <h5>$<span class="page-price">2500</span></h5>
                                             </div>
                                             <div class="readmore-btn">
-                                                <a href="https://themexriver.com/houseland-demo/main/property/sheltec-house/"><i class="flaticonv2-right-arrow"></i></a>
+                                                <a href="https://themexriver.com/houseland-demo/main/property/sheltec-house/"><i class="fa-solid fa-arrow-right-long"></i></a>
                                             </div>
                                         </div>
                                     </div>
@@ -606,7 +606,7 @@
                                                 <h5>$<span class="page-price">4000</span></h5>
                                             </div>
                                             <div class="readmore-btn">
-                                                <a href="https://themexriver.com/houseland-demo/main/property/milter-jhonson-house/"><i class="flaticonv2-right-arrow"></i></a>
+                                                <a href="https://themexriver.com/houseland-demo/main/property/milter-jhonson-house/"><i class="fa-solid fa-arrow-right-long"></i></a>
                                             </div>
                                         </div>
                                     </div>
@@ -643,7 +643,7 @@
                                                 <h5>$<span class="page-price">15000</span></h5>
                                             </div>
                                             <div class="readmore-btn">
-                                                <a href="https://themexriver.com/houseland-demo/main/property/taiyeba-villa/"><i class="flaticonv2-right-arrow"></i></a>
+                                                <a href="https://themexriver.com/houseland-demo/main/property/taiyeba-villa/"><i class="fa-solid fa-arrow-right-long"></i></a>
                                             </div>
                                         </div>
                                     </div>
@@ -680,7 +680,7 @@
                                                 <h5>$<span class="page-price">4500</span></h5>
                                             </div>
                                             <div class="readmore-btn">
-                                                <a href="https://themexriver.com/houseland-demo/main/property/2400-sqft-ready-flat/"><i class="flaticonv2-right-arrow"></i></a>
+                                                <a href="https://themexriver.com/houseland-demo/main/property/2400-sqft-ready-flat/"><i class="fa-solid fa-arrow-right-long"></i></a>
                                             </div>
                                         </div>
                                     </div>
@@ -723,7 +723,7 @@
                                                 <h5>$<span class="page-price">2500</span></h5>
                                             </div>
                                             <div class="readmore-btn">
-                                                <a href="https://themexriver.com/houseland-demo/main/property/sea-view-house/"><i class="flaticonv2-right-arrow"></i></a>
+                                                <a href="https://themexriver.com/houseland-demo/main/property/sea-view-house/"><i class="fa-solid fa-arrow-right-long"></i></a>
                                             </div>
                                         </div>
                                     </div>
@@ -760,7 +760,7 @@
                                                 <h5>$<span class="page-price">2500</span></h5>
                                             </div>
                                             <div class="readmore-btn">
-                                                <a href="https://themexriver.com/houseland-demo/main/property/10-rooms-furnished-villa/"><i class="flaticonv2-right-arrow"></i></a>
+                                                <a href="https://themexriver.com/houseland-demo/main/property/10-rooms-furnished-villa/"><i class="fa-solid fa-arrow-right-long"></i></a>
                                             </div>
                                         </div>
                                     </div>
@@ -797,7 +797,7 @@
                                                 <h5>$<span class="page-price">2500</span></h5>
                                             </div>
                                             <div class="readmore-btn">
-                                                <a href="https://themexriver.com/houseland-demo/main/property/beautiful-apartment-house/"><i class="flaticonv2-right-arrow"></i></a>
+                                                <a href="https://themexriver.com/houseland-demo/main/property/beautiful-apartment-house/"><i class="fa-solid fa-arrow-right-long"></i></a>
                                             </div>
                                         </div>
                                     </div>
@@ -834,7 +834,7 @@
                                                 <h5>$<span class="page-price">2500</span></h5>
                                             </div>
                                             <div class="readmore-btn">
-                                                <a href="https://themexriver.com/houseland-demo/main/property/sheltec-house/"><i class="flaticonv2-right-arrow"></i></a>
+                                                <a href="https://themexriver.com/houseland-demo/main/property/sheltec-house/"><i class="fa-solid fa-arrow-right-long"></i></a>
                                             </div>
                                         </div>
                                     </div>
@@ -871,7 +871,7 @@
                                                 <h5>$<span class="page-price">4000</span></h5>
                                             </div>
                                             <div class="readmore-btn">
-                                                <a href="https://themexriver.com/houseland-demo/main/property/milter-jhonson-house/"><i class="flaticonv2-right-arrow"></i></a>
+                                                <a href="https://themexriver.com/houseland-demo/main/property/milter-jhonson-house/"><i class="fa-solid fa-arrow-right-long"></i></a>
                                             </div>
                                         </div>
                                     </div>
@@ -908,7 +908,7 @@
                                                 <h5>$<span class="page-price">15000</span></h5>
                                             </div>
                                             <div class="readmore-btn">
-                                                <a href="https://themexriver.com/houseland-demo/main/property/taiyeba-villa/"><i class="flaticonv2-right-arrow"></i></a>
+                                                <a href="https://themexriver.com/houseland-demo/main/property/taiyeba-villa/"><i class="fa-solid fa-arrow-right-long"></i></a>
                                             </div>
                                         </div>
                                     </div>
@@ -951,7 +951,7 @@
                                                 <h5>$<span class="page-price">2500</span></h5>
                                             </div>
                                             <div class="readmore-btn">
-                                                <a href="https://themexriver.com/houseland-demo/main/property/sea-view-house/"><i class="flaticonv2-right-arrow"></i></a>
+                                                <a href="https://themexriver.com/houseland-demo/main/property/sea-view-house/"><i class="fa-solid fa-arrow-right-long"></i></a>
                                             </div>
                                         </div>
                                     </div>
@@ -988,7 +988,7 @@
                                                 <h5>$<span class="page-price">2500</span></h5>
                                             </div>
                                             <div class="readmore-btn">
-                                                <a href="https://themexriver.com/houseland-demo/main/property/10-rooms-furnished-villa/"><i class="flaticonv2-right-arrow"></i></a>
+                                                <a href="https://themexriver.com/houseland-demo/main/property/10-rooms-furnished-villa/"><i class="fa-solid fa-arrow-right-long"></i></a>
                                             </div>
                                         </div>
                                     </div>
@@ -1025,7 +1025,7 @@
                                                 <h5>$<span class="page-price">2500</span></h5>
                                             </div>
                                             <div class="readmore-btn">
-                                                <a href="https://themexriver.com/houseland-demo/main/property/beautiful-apartment-house/"><i class="flaticonv2-right-arrow"></i></a>
+                                                <a href="https://themexriver.com/houseland-demo/main/property/beautiful-apartment-house/"><i class="fa-solid fa-arrow-right-long"></i></a>
                                             </div>
                                         </div>
                                     </div>
@@ -1062,7 +1062,7 @@
                                                 <h5>$<span class="page-price">2500</span></h5>
                                             </div>
                                             <div class="readmore-btn">
-                                                <a href="https://themexriver.com/houseland-demo/main/property/sheltec-house/"><i class="flaticonv2-right-arrow"></i></a>
+                                                <a href="https://themexriver.com/houseland-demo/main/property/sheltec-house/"><i class="fa-solid fa-arrow-right-long"></i></a>
                                             </div>
                                         </div>
                                     </div>
@@ -1099,7 +1099,7 @@
                                                 <h5>$<span class="page-price">4000</span></h5>
                                             </div>
                                             <div class="readmore-btn">
-                                                <a href="https://themexriver.com/houseland-demo/main/property/milter-jhonson-house/"><i class="flaticonv2-right-arrow"></i></a>
+                                                <a href="https://themexriver.com/houseland-demo/main/property/milter-jhonson-house/"><i class="fa-solid fa-arrow-right-long"></i></a>
                                             </div>
                                         </div>
                                     </div>
@@ -1142,7 +1142,7 @@
                                                 <h5>$<span class="page-price">2500</span></h5>
                                             </div>
                                             <div class="readmore-btn">
-                                                <a href="https://themexriver.com/houseland-demo/main/property/sea-view-house/"><i class="flaticonv2-right-arrow"></i></a>
+                                                <a href="https://themexriver.com/houseland-demo/main/property/sea-view-house/"><i class="fa-solid fa-arrow-right-long"></i></a>
                                             </div>
                                         </div>
                                     </div>
@@ -1179,7 +1179,7 @@
                                                 <h5>$<span class="page-price">2500</span></h5>
                                             </div>
                                             <div class="readmore-btn">
-                                                <a href="https://themexriver.com/houseland-demo/main/property/10-rooms-furnished-villa/"><i class="flaticonv2-right-arrow"></i></a>
+                                                <a href="https://themexriver.com/houseland-demo/main/property/10-rooms-furnished-villa/"><i class="fa-solid fa-arrow-right-long"></i></a>
                                             </div>
                                         </div>
                                     </div>
@@ -1216,7 +1216,7 @@
                                                 <h5>$<span class="page-price">2500</span></h5>
                                             </div>
                                             <div class="readmore-btn">
-                                                <a href="https://themexriver.com/houseland-demo/main/property/beautiful-apartment-house/"><i class="flaticonv2-right-arrow"></i></a>
+                                                <a href="https://themexriver.com/houseland-demo/main/property/beautiful-apartment-house/"><i class="fa-solid fa-arrow-right-long"></i></a>
                                             </div>
                                         </div>
                                     </div>
@@ -1253,7 +1253,7 @@
                                                 <h5>$<span class="page-price">2500</span></h5>
                                             </div>
                                             <div class="readmore-btn">
-                                                <a href="https://themexriver.com/houseland-demo/main/property/sheltec-house/"><i class="flaticonv2-right-arrow"></i></a>
+                                                <a href="https://themexriver.com/houseland-demo/main/property/sheltec-house/"><i class="fa-solid fa-arrow-right-long"></i></a>
                                             </div>
                                         </div>
                                     </div>
@@ -1290,7 +1290,7 @@
                                                 <h5>$<span class="page-price">4000</span></h5>
                                             </div>
                                             <div class="readmore-btn">
-                                                <a href="https://themexriver.com/houseland-demo/main/property/milter-jhonson-house/"><i class="flaticonv2-right-arrow"></i></a>
+                                                <a href="https://themexriver.com/houseland-demo/main/property/milter-jhonson-house/"><i class="fa-solid fa-arrow-right-long"></i></a>
                                             </div>
                                         </div>
                                     </div>
@@ -1333,7 +1333,7 @@
                                                 <h5>$<span class="page-price">2500</span></h5>
                                             </div>
                                             <div class="readmore-btn">
-                                                <a href="https://themexriver.com/houseland-demo/main/property/sea-view-house/"><i class="flaticonv2-right-arrow"></i></a>
+                                                <a href="https://themexriver.com/houseland-demo/main/property/sea-view-house/"><i class="fa-solid fa-arrow-right-long"></i></a>
                                             </div>
                                         </div>
                                     </div>
@@ -1370,7 +1370,7 @@
                                                 <h5>$<span class="page-price">2500</span></h5>
                                             </div>
                                             <div class="readmore-btn">
-                                                <a href="https://themexriver.com/houseland-demo/main/property/10-rooms-furnished-villa/"><i class="flaticonv2-right-arrow"></i></a>
+                                                <a href="https://themexriver.com/houseland-demo/main/property/10-rooms-furnished-villa/"><i class="fa-solid fa-arrow-right-long"></i></a>
                                             </div>
                                         </div>
                                     </div>
@@ -1407,7 +1407,7 @@
                                                 <h5>$<span class="page-price">2500</span></h5>
                                             </div>
                                             <div class="readmore-btn">
-                                                <a href="https://themexriver.com/houseland-demo/main/property/beautiful-apartment-house/"><i class="flaticonv2-right-arrow"></i></a>
+                                                <a href="https://themexriver.com/houseland-demo/main/property/beautiful-apartment-house/"><i class="fa-solid fa-arrow-right-long"></i></a>
                                             </div>
                                         </div>
                                     </div>
@@ -1444,7 +1444,7 @@
                                                 <h5>$<span class="page-price">2500</span></h5>
                                             </div>
                                             <div class="readmore-btn">
-                                                <a href="https://themexriver.com/houseland-demo/main/property/sheltec-house/"><i class="flaticonv2-right-arrow"></i></a>
+                                                <a href="https://themexriver.com/houseland-demo/main/property/sheltec-house/"><i class="fa-solid fa-arrow-right-long"></i></a>
                                             </div>
                                         </div>
                                     </div>
@@ -1481,7 +1481,7 @@
                                                 <h5>$<span class="page-price">4000</span></h5>
                                             </div>
                                             <div class="readmore-btn">
-                                                <a href="https://themexriver.com/houseland-demo/main/property/milter-jhonson-house/"><i class="flaticonv2-right-arrow"></i></a>
+                                                <a href="https://themexriver.com/houseland-demo/main/property/milter-jhonson-house/"><i class="fa-solid fa-arrow-right-long"></i></a>
                                             </div>
                                         </div>
                                     </div>
@@ -1893,7 +1893,7 @@
                                 <p>Ten benifits of rentals that may change your perspective from solving basic problems to incorporating remedial training. The point of ...</p>
                             </div>
                             <div class="readmore-btn">
-                                <a href="https://themexriver.com/houseland-demo/main/2021/11/13/what-to-expect-when-workings-with-an-interior-designer/">Read more <span><i class="flaticonv2-right-arrow"></i></span></a>
+                                <a href="https://themexriver.com/houseland-demo/main/2021/11/13/what-to-expect-when-workings-with-an-interior-designer/">Read more <span><i class="fa-solid fa-arrow-right-long"></i></span></a>
                             </div>
                         </div>
                     </div>
@@ -1912,7 +1912,7 @@
                                 <p>Ten benifits of rentals that may change your perspective from solving basic problems to incorporating remedial training. The point of ...</p>
                             </div>
                             <div class="readmore-btn">
-                                <a href="https://themexriver.com/houseland-demo/main/2021/11/13/ten-benefits-of-rentals-taht-may-change-your-perspective/">Read more <span><i class="flaticonv2-right-arrow"></i></span></a>
+                                <a href="https://themexriver.com/houseland-demo/main/2021/11/13/ten-benefits-of-rentals-taht-may-change-your-perspective/">Read more <span><i class="fa-solid fa-arrow-right-long"></i></span></a>
                             </div>
                         </div>
                     </div>
@@ -1931,7 +1931,7 @@
                                 <p>Ten benifits of rentals that may change your perspective from solving basic problems to incorporating remedial training. The point of ...</p>
                             </div>
                             <div class="readmore-btn">
-                                <a href="https://themexriver.com/houseland-demo/main/2021/11/13/stylish-modern-ranch-excluding-a-welcoming-feel/">Read more <span><i class="flaticonv2-right-arrow"></i></span></a>
+                                <a href="https://themexriver.com/houseland-demo/main/2021/11/13/stylish-modern-ranch-excluding-a-welcoming-feel/">Read more <span><i class="fa-solid fa-arrow-right-long"></i></span></a>
                             </div>
                         </div>
                     </div>
@@ -1950,7 +1950,7 @@
                                 <p>Ten benifits of rentals that may change your perspective from solving basic problems to incorporating remedial training. The point of ...</p>
                             </div>
                             <div class="readmore-btn">
-                                <a href="https://themexriver.com/houseland-demo/main/2021/11/13/complete-guide-to-bying-selling-houses/">Read more <span><i class="flaticonv2-right-arrow"></i></span></a>
+                                <a href="https://themexriver.com/houseland-demo/main/2021/11/13/complete-guide-to-bying-selling-houses/">Read more <span><i class="fa-solid fa-arrow-right-long"></i></span></a>
                             </div>
                         </div>
                     </div>

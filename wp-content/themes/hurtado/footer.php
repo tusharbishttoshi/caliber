@@ -1,3 +1,4 @@
+	<?php wp_footer(); ?>
 	<!-- Footer Area -->
     <footer class="hl-footer-area footer-style-three pt-100" data-background="../wp-content/themes/houseland/assets/images/footer-bg.png">
     <div class="container">
@@ -202,21 +203,6 @@ for (let j = 0; j < urlFields.length; j++) {
 			document.body.className = c;
 		})();
 	</script>
-
-
-<script type='text/javascript' src='../wp-content/themes/houseland/assets/js/vendor/easing.min431f.js?ver=2.1.2' id='easing-js'></script>
-
-<script type='text/javascript' src='../wp-content/themes/houseland/assets/js/vendor/jquery.nice-select431f.js?ver=2.1.2' id='jquery-nice-select-js'></script>
-<script type='text/javascript' src='../wp-content/themes/houseland/assets/js/vendor/image-uploader.min431f.js?ver=2.1.2' id='image-uploader-js'></script>
-<script type='text/javascript' src='../wp-content/themes/houseland/assets/js/vendor/rating-input431f.js?ver=2.1.2' id='rating-input-js'></script>
-<script type='text/javascript' src='../wp-content/themes/houseland/assets/js/vendor/odometer431f.js?ver=2.1.2' id='odometer-js'></script>
-<script type='text/javascript' src='../wp-content/themes/houseland/assets/js/vendor/jquery-ui431f.js?ver=2.1.2' id='jquery-ui-js'></script>
-<script type='text/javascript' src='../wp-content/themes/houseland/assets/js/vendor/appear431f.js?ver=2.1.2' id='appear-js'></script>
-<script type='text/javascript' src='../wp-content/themes/houseland/assets/js/vendor/countdown431f.js?ver=2.1.2' id='countdown-js'></script>
-<script type='text/javascript' src='../wp-content/themes/houseland/assets/js/vendor/magnific-popup431f.js?ver=2.1.2' id='magnific-popup-js'></script>
-<script type='text/javascript' src='../wp-content/themes/houseland/assets/js/mixitup431f.js?ver=2.1.2' id='mixitup-js'></script>
-<script type='text/javascript' src='../wp-content/themes/houseland/assets/js/main3781.js?ver=6.2.2' id='houseland-main-js'></script>
-<script type='text/javascript' src='../wp-content/themes/houseland/assets/js/script-new3781.js?ver=6.2.2' id='houseland-script-js'></script>
 
 
 
@@ -434,6 +420,5 @@ for (let j = 0; j < urlFields.length; j++) {
 			</symbol>
 		</defs>
 	</svg>
-<?php wp_footer(); ?>
 </body>
 </html>
